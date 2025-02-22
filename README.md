@@ -1,4 +1,4 @@
-# ![PythonLogo](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png) My Python Projects Repository
+# <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" alt="PythonLogo" width="200" /> My Python Projects Repository
 
 Welcome to my collection of Python scripts! This repository showcases a variety of small projects I've created while learning and practicing Python. Feel free to explore, use, and modify the code as you see fit. Your feedback is welcome and greatly appreciated.
 
@@ -12,4 +12,3 @@ Welcome to my collection of Python scripts! This repository showcases a variety 
 
 ### **Calculator**
 - **Description**: Simple command-line calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. This project showcases fundamental Python programming skills, including functions, conditionals, and user input handling
-
